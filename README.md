@@ -2,7 +2,9 @@
     Modifier mpotacon & zdylann
     Licence: GNU Lesser General Public License Version 3 (LGPLv3)
 
-    TabAPI is an API that is designed to allow developers make use of the Player Tab List in their plugins. It allows a simple way for Dev's to take control of it on a per-player basis to provide ingame stats, custom tab menus, hud's and more!
+    TabAPI is an API that is designed to allow developers make use of the Player Tab List in their plugins.
+    It allows a simple way for Dev's to take control of it on a per-player basis to provide ingame stats,
+    custom tab menus, hud's and more!
     
 Licence:
 
